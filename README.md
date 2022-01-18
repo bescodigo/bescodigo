@@ -1,5 +1,5 @@
 - 👋 Hola, soy Brian Sánchez ✨ 
-- 👀 Soy Estudiante de Informatica en la UNO (Universida Nacional del Oeste).
+- 👀 Soy Estudiante de Informática en la UNO (Universida Nacional del Oeste).
 - 🌱 Me interesan los patrones de diseño.
-- 💞️ Me encantaria colaborar en algun proyecto modesto.
+- 💞️ Me encantaría colaborar en algun proyecto modesto.
 - 📫 bescodigo@gmail.com
