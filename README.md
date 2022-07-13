@@ -1,7 +1,7 @@
 - 👋 Hola, soy Brian Sánchez ✨ 
 - 👀 Soy Estudiante de Informática en la UNO (Universida Nacional del Oeste).
 - 🌱 Me interesan los patrones de diseño.
-- 💞️ bescodigo.blogspot.com
+- 💞️ https://bescodigo.blogspot.com
 - 📫 bescodigo@gmail.com
-- CV my.cvonline.me/@vhp8ca5t6n
-- IN linkedin.com/in/brian-s%C3%A1nchez-a37a4b229/
+- CV https://my.cvonline.me/@vhp8ca5t6n
+- IN https://linkedin.com/in/brian-s%C3%A1nchez-a37a4b229/
